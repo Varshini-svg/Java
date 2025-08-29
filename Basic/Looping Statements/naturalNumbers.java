@@ -24,18 +24,6 @@ public class naturalNumbers {
             System.out.println(startNumber);
             startNumber+=1;
         }
-
-        // using do while loop
-
-        System.out.println("Reslts using do while loop");
-        do { 
-            System.out.println(startNumber);
-            startNumber+=1;
-        } while (startNumber<=endNumber);
-
-        
-        
-
-
     }
 }
+
